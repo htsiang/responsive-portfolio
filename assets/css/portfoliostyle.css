@@ -1,0 +1,46 @@
+.pfpic {
+    margin-right: 40px;
+    margin-bottom: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #dddddd;
+    height: 225px;
+
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
+    position: relative;
+}
+
+#hangman {
+    float: left;
+}
+
+#rpg-game {
+    float: left;
+}
+
+#trivia-game {
+    clear: both;
+    float: left;
+}
+
+#info-widget {
+    float: left;
+}
+
+#rockpaperscissors {
+    clear: both;
+    float: left;
+}
+
+.picturetitle {
+    position: absolute;
+    bottom: 10px;
+
+    text-align: center;
+    color: #ffffff;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #4aaaa5;
+}

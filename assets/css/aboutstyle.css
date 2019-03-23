@@ -1,0 +1,12 @@
+/* styling for about me content on "About" page */
+
+#profilepic {
+    float: left;
+
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+#aboutme {
+    line-height: 1.5;
+}
